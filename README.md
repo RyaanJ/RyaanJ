@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RyaanJ
-- 👀 I’m interested in Artificial Intelligence and Software Development!
+- 👋 Hi, I’m @RyaanJ --> Ryaan Jaffar
+- 👀 I’m interested in Machine Learning, Big Data and Software Development!
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: Send me a connection on Linkedin and reach out!
 
