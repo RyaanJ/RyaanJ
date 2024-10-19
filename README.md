@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RyaanJ --> Ryaan Jaffar<br>👀 I’m interested in Machine Learning, Big Data and Software Development!<br>🌱 I’m currently learning AWS<br>📫 How to reach me: Send me a connection on LinkedIn and reach out!
+👋 Hi, I’m @RyaanJ --> Ryaan Jaffar<br>👀 I’m interested in Machine Learning, Big Data and Software Development!<br>🌱 I’m currently learning AWS<br>📫 How to reach me: Send me a connection on LinkedIn & reach out!
 
 
 ## 🌐 Socials:
